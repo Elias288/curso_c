@@ -9,6 +9,7 @@ Programa que permite al usuario realizar operaciones matemáticas básicas como 
 Programa que convierta unidades (temperatura Celsius, Fahrenheit y Kelvin, o de distancia entre metros, kilómetros, millas, etc).
 - **Juego de adivinanza de número**
 Juego donde el programa genere un número aleatorio y el usuario tenga que adivinarlo. Con cada intento, el programa le indica si el número es mayor o menor que el ingresado.
+[Juego de adivinanza](./juegoAdivinanza/main.c)
 - **Calculadora de área y perímetro**
 Programa que calcule el área y perímetro de diferentes figuras geométricas como círculos, triángulos, rectángulos, etc. Permite al usuario seleccionar la figurar y luego ingresar los valores requeridos.
 - **Generador de contraseñas**
