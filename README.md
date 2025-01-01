@@ -2,27 +2,35 @@
 
 Lista de proyectos de práctica en el lenguaje de programación `c`:
 
-> [Calculadora simple](./salculadora.c)
+- [Básicos](#básicos)
+- [Intermedios](#intermedios)
+- [Avanzados](#avanzados)
+- [Muy avanzados](#muy-avanzados)
+
+
+## Básicos
+> [Calculadora simple](./src/basicos/calculadora.c)
+
 > 
 > Programa que permite al usuario realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
-> [Conversor de unidades](./src/conversor.c)
+> [Conversor de unidades](./src/basicos/conversor.c)
 > 
 > Programa que convierta unidades (temperatura Celsius, Fahrenheit y Kelvin, o de distancia entre metros, kilómetros, millas, etc).
 
-> [Juego de adivinanza de número](./src/juegoAdivinanza.c)
+> [Juego de adivinanza de número](./src/basicos/juegoAdivinanza.c)
 > 
 > Juego donde el programa genere un número aleatorio y el usuario tenga que adivinarlo. Con cada intento, el programa le indica si el número es mayor o menor que el ingresado.
 
-> [Calculadora de área y perímetro](./src/areaYPerimetro.c)
+> [Calculadora de área y perímetro](./src/basicos/areaYPerimetro.c)
 > 
 > Programa que calcule el área y perímetro de diferentes figuras geométricas como círculos, triángulos, rectángulos, etc. Permite al usuario seleccionar la figurar y luego ingresar los valores requeridos.
 
-> [Generador de contraseñas](./src/generadorDeContrasenias.c)
+> [Generador de contraseñas](./src/basicos/generadorDeContrasenias.c)
 > 
 > Programa que genere contraseñas aleatorias. Permitir al usuario ingresar la longitud de la contraseña y los tipos de caracteres a incluir (letras, números, símbolos).
 
----
+## Intermedios
 
 > **Agenda de contactos**
 > 
@@ -44,7 +52,7 @@ Lista de proyectos de práctica en el lenguaje de programación `c`:
 > 
 > Crea el juego de Ahorcado, donde el usuario debe adivinar una palabra letra por letra antes de quedarse sin intentos. Puedes almacenar las palabras en un archivo de texto para cargar una palabra aleatoria en cada partida.
 
----
+## Avanzados
 
 > **Simulador de cajero automático**
 > 
@@ -70,7 +78,7 @@ Lista de proyectos de práctica en el lenguaje de programación `c`:
 > 
 > Programa que simule un sistema de colas en una tienda o banco, con llegada y salida de clientes. Puedes aplicar conceptos de estructuras de datos (colas) para manejar la espera y tiempo de atención de cada cliente.
 
----
+## Muy avanzados
 
 > **Interprete de Lenguaje (mini-compilador)**
 > 
